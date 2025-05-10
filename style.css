@@ -128,7 +128,7 @@ input:focus{
 .intro{
     position: relative;
     height: 1131px;
-    background-image: url(/img/background-1.jpg);
+    background-image: url(./img/background-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 185px;
