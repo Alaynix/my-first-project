@@ -125,15 +125,15 @@ input:focus{
 
 /* INTRO */
 
-.intro{
-    position: relative;
-    height: 1131px;
-    background-image: url("./img/background-1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 185px;
-    background-position: top;
-    z-index: 100;
+.intro {
+  position: relative;
+  height: 1131px;
+  background-image: url(./img/background-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 185px;
+  background-position: top;
+  z-index: 100;
 }
 
 .intro__inner{
